@@ -1,0 +1,38 @@
+/* all design */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* header section design */
+.header{
+    background-image: url('images/banner1.png');
+    height: 808px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-section{
+    margin-left: 800px;
+    margin-right: 80px;
+    padding-top: 300px;
+}
+.header-section h2{
+    font-size: 50px;
+    text-align: right;
+
+}
+.header-section p{
+    margin-top: 14px;
+    margin-bottom: 17px;
+    text-align: right;
+}
+.button-primary{
+    background-color: #F15B22;
+    padding: 10px 17px;
+    border-radius: 5px;
+    border: 0;
+    color: #ffffff;
+    margin-left: 360px;
+    
+}
